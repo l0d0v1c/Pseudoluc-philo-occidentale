@@ -22,7 +22,7 @@ Dans ce projet, l'idée est de faire explorer les topics de la philosophie occid
 
 ## 2. Distribution globale
 
-![Histogramme global](img/i1.pjeg)
+![Histogramme global](img/i1.jpeg)
 
 ## 3. Statistiques par classe (triées)
 
