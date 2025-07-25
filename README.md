@@ -5,6 +5,10 @@ Analyse de la convergence entre les idées de la philosophie occidentale et un c
 * Lionel JOUFFE (Bayesia), Hierarchical Network of Philosophers and Their Ideas, https://www.linkedin.com/pulse/hierarchical-network-philosophers-ideas-lionel-jouffe-3re3e/
 * Luc E. BRUNET. Le problème difficile de l’identité : évaluation d’un clone LLM. *JITIPEE* **9**, (2025), 10.52497/jitipee.v9i2.381.
 
+# Accéder aux analyses des philosophes
+
+[https://l0d0v1c.github.io/Pseudoluc-philo-occidentale/](https://l0d0v1c.github.io/Pseudoluc-philo-occidentale/)
+
 # Objectif
 
 Dans ce projet, l'idée est de faire explorer les topics de la philosophie occidentale par un clone de personnalité capable de déterminer la convergence de chaque idée avec ses valeurs.
